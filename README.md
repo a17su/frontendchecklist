@@ -1,2 +1,2 @@
 # frontendchecklist
-Перевод The Front-End Checklist на русский язык
+Перевод сайта «The Front-End Checklist» (https://frontendchecklist.io/) на русский язык
